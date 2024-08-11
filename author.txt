@@ -2,7 +2,6 @@ About the Author
 This project was developed by:
 
 Name: Shrishti Singh
-Registration Number: RA2211030030006
 Email: shrishtisingh13867@gmail.com
 
 I am passionate about leveraging data science and machine learning to solve real-world problems. This project is a part of my ongoing efforts to contribute to the healthcare domain through predictive analytics.
